@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.sofka.App",
+            "projectName": "ejercicio_7_33710f5c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestProcess",
+            "request": "launch",
+            "mainClass": "test.TestProcess",
+            "projectName": "Point6_6577aaae"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.sofka.App",
+            "projectName": "ejercicio_6_33710f5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.sofka.App",
+            "projectName": "ejercicio_5_33710f5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.sofka.App",
+            "projectName": "ejercicio_4_33710f59"
+        }
+    ]
+}
